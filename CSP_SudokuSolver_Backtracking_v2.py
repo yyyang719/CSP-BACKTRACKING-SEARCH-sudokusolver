@@ -1,8 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Wed Oct 26 10:01:44 2022
-
 @author: yuanyuan
 """
 # CSP for 9x9 Sudoku puzzle:
